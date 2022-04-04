@@ -1,2 +1,2 @@
 x = 'hello world'
-print(x ** 5)
+print(x * 5)
